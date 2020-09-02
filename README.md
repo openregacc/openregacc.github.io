@@ -1,3 +1,3 @@
-# -openregacc.github.io
+# openregacc.github.io
 
 hello, world
